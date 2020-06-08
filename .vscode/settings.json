@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "cstdlib": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "ostream": "cpp",
+        "algorithm": "cpp",
+        "system_error": "cpp",
+        "xlocale": "cpp"
+    }
+}
